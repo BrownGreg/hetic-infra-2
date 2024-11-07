@@ -13,4 +13,4 @@ Et puis avec des outils comme ECR et CloudFront on se concentre sur l'applicatio
 
 - Le service Elastic Container Registry (ECR) pour uploader les images Docker afin de rendre disponible le projet dans AWS.
 
-![Schema AWS](Schema2.png)
+![Schema AWS](Schema3.png)
